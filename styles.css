@@ -1,0 +1,34 @@
+p,li
+    {font-family: 'Righteous', cursive;
+}
+h1,h2
+{font-family: 'Press Start 2P', cursive;
+}
+
+img 
+{height: 300px;
+}
+body
+    {text-align:center;
+
+border-style:dashed;
+
+}
+h1
+{color:yellow;
+background-color: blue;}
+h2
+    {color:white;
+background-color: blue;}
+    
+img
+{
+width:200px;
+height:200px;
+}
+.ig
+{
+width:20px;
+height:20px;
+}
+
